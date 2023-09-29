@@ -1,0 +1,2 @@
+# telusko
+django project
